@@ -15,6 +15,8 @@
   
   [![NodeJS with Gulp](https://github.com/Vulong-development/gulp/actions/workflows/npm-gulp.yml/badge.svg)](https://github.com/Vulong-development/gulp/actions/workflows/npm-gulp.yml)
 
+  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ingstrem/gulp)
+
   #### В данный шаблон Gulp входят следующие пакеты:
 
   - browser-sync

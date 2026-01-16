@@ -1,7 +1,13 @@
 #!groovy
 
 pipeline {
-  agent {
-    label
+  agent any
+
+  stages {
+    stage('Установка зависимостей') {
+      steps {
+        sh 'npm install'
+      }
+    }
   }
 }

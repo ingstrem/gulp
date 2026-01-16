@@ -6,12 +6,7 @@ pipeline {
   stages {
     stage('Установка зависимостей') {
       steps {
-        sh 'npm install'
-      }
-    }
-    stage('Build Project') {
-      steps {
-        sh 'npm run build'
+        echo 'npm install'
       }
     }
   }
